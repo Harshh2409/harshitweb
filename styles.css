@@ -197,3 +197,66 @@ hr{
     color: var(--primarycolor);
 }
 
+.blogheading{
+    font-weight: bold;
+    color: var(--primarycolor);
+    text-align: center;
+}
+.blog1heading{
+    font-weight: bold;
+    color: var(--dw);
+    font-size: 2.5rem;
+}
+.blog1section{
+    text-align: center;
+    padding: 2rem;
+
+}
+.blog1date{
+    color: black;
+    font-size: 1rem;
+}
+.blog1preview{
+    color: black;
+    font-size: 1.5rem;
+    padding: 0.8rem;
+}
+.blog1link{
+    font-size: 1.5rem;
+    display: block;
+    background-color: var(--primarycolor);
+    max-width: 150px;
+    color: white;
+    font-size: 1.5rem;
+    margin: 1rem 34rem 1rem 35rem;
+    border-radius: 0.5rem;
+}
+.blog2heading{
+    font-weight: bold;
+    color: var(--dw);
+    font-size: 2.5rem;
+}
+.blog2section{
+    text-align: center;
+    padding: 2rem;
+
+}
+.blog2date{
+    color: black;
+    font-size: 1rem;
+}
+.blog2preview{
+    color: black;
+    font-size: 1.5rem;
+    padding: 0.8rem;
+}
+.blog2link{
+    font-size: 1.5rem;
+    display: block;
+    background-color: var(--primarycolor);
+    max-width: 150px;
+    color: white;
+    font-size: 1.5rem;
+    margin: 1rem 34rem 1rem 35rem;
+    border-radius: 0.5rem;
+}
