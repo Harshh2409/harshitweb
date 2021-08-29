@@ -1,0 +1,161 @@
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+
+body{
+    font-family: 'PT Sans', sans-serif;
+    color:rebeccapurple
+}
+:root{
+    --primarycolor:#60A5FA;
+    --ow:#F3F4F6;
+    --dw:#6B7280;
+}
+.container{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.firstlink
+{
+     background-color:rebeccapurple;
+     border-radius: 1rem;
+     color:white;
+     padding:0.5rem,1rem;
+}
+.secondlink{
+    background-color: seashell;
+    border-radius: 1rem;
+    color: rebeccapurple;
+    border:1px solid ;
+}
+hr{
+    margin: 1rem;
+}
+.list1{
+    list-style-type:circle;
+}
+.list2{
+    display:inline;
+    padding: 0rem 0.5rem;
+}
+.navigation{
+    background-color: var(--primarycolor);
+    color: seashell;
+    padding: 1rem;
+    border-bottom-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+.inline2{
+    display: inline;
+    color: white;
+    padding: 6rem;
+    font-size: 1.5rem;
+       
+}
+.inlinee{
+    
+    text-align: center;
+    text-decoration: white;
+}
+.brand{
+    font-weight: bold;
+}
+.link{
+    color: white;
+}
+
+.hero{
+    padding: 1rem;
+    text-align: center;
+}
+.heroimage{
+    display: block;
+    margin: auto;
+    max-width: 350px;
+}
+.herotext{
+    color: var(--primarycolor);
+}
+
+.sectionh31{
+    color: var(--primarycolor);
+    font-size: 1.5rem;
+}
+.sectionwhite{
+    color: var(--primarycolor);
+    font-size: 1.5rem;
+}
+.ow1{
+    background-color: var(--ow);
+    text-align: center;
+    padding: 2rem;
+}
+.ow2{
+    background-color: var(--ow);
+    text-align: center;
+    padding: 2rem;
+}
+.ws{
+    padding: 2rem;
+    background-color: white;
+    text-align: center;
+}
+.bloglink{
+    font-size: 1.5rem;
+    display: block;
+    background-color: var(--primarycolor);
+    max-width: 150px;
+    color: white;
+    font-size: 1.5rem;
+    margin: 1rem 34rem 1rem 35rem;
+    border-radius: 0.5rem;
+}
+.social{
+    display: inline;
+    padding: 8rem;
+    font-size: 1.5rem;
+}
+.footerheading{
+     font-weight: bold;
+     font-size: 1.5rem;
+}
+
+.sectionh32{
+    color: var(--primarycolor);
+    font-size: 1.5rem;
+}
+.sectionoffwhite{
+    color: var(--primarycolor);
+    font-size: 1.5rem;
+}
+.sectionh33{
+    color: var(--primarycolor);
+    font-size: 1.5rem;
+}
+.sectionoffwhitee{
+    color: var(--primarycolor);
+    font-size: 1.5rem;
+}
+.projectlink{
+    font-size: 1.5rem;
+    display: block;
+    background-color: var(--primarycolor);
+    max-width: 150px;
+    color: white;
+    font-size: 1.5rem;
+    margin: 1rem 34rem 1rem 35rem;
+    border-radius: 0.5rem;
+}
+
+.footer{
+    text-align: center;
+    padding: 2rem;
+    background-color: var(--primarycolor);
+    color: white;
+    border-top-right-radius:1rem ;
+    border-bottom-left-radius:1rem ;
+}
+.inline1{
+    display: inline;
+}
+
