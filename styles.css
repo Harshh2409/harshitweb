@@ -4,7 +4,7 @@
 
 body{
     font-family: 'PT Sans', sans-serif;
-    color:rebeccapurple
+    color:var(--primarycolor)
 }
 :root{
     --primarycolor:#60A5FA;
@@ -95,6 +95,11 @@ hr{
     text-align: center;
     padding: 2rem;
 }
+.ow3{
+    background-color: var(--ow);
+    text-align: center;
+    padding: 2rem;
+}
 .ws{
     padding: 2rem;
     background-color: white;
@@ -128,9 +133,34 @@ hr{
     color: var(--primarycolor);
     font-size: 1.5rem;
 }
-.sectionh33{
+
+.sectionh34{
     color: var(--primarycolor);
     font-size: 1.5rem;
+}
+.sectionow3{
+    font-size: 1.5rem;
+}
+.potterlink{
+    font-size: 1.5rem;
+    display: block;
+    background-color: var(--primarycolor);
+    max-width: 150px;
+    color: white;
+    font-size: 1.5rem;
+    margin: 1rem 34rem 1rem 35rem;
+    border-radius: 0.5rem;
+}
+.pottercode{
+    font-size: 1.5rem;
+    display: block;
+    max-width: 150px;
+    color: var(--primarycolor);
+    margin: 1rem 34rem 1rem 35rem;
+    border-radius: 0.5rem;
+    border: 1px solid var(--primary-color);
+    background-color: white;
+
 }
 .sectionoffwhitee{
     color: var(--primarycolor);
@@ -157,5 +187,9 @@ hr{
 }
 .inline1{
     display: inline;
+}
+.projecthead{
+    text-align: center;
+    font-size: 2.5rem;
 }
 
