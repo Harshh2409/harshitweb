@@ -192,4 +192,8 @@ hr{
     text-align: center;
     font-size: 2.5rem;
 }
+.blogheading{
+    font-weight: bold;
+    color: var(--primarycolor);
+}
 
