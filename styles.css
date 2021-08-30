@@ -269,3 +269,60 @@ hr{
 .hackerranklink{
     color: white;
 }
+.ow4{
+    background-color: var(--ow);
+    text-align: center;
+    padding: 2rem;
+}
+.bananalink{
+    font-size: 1.5rem;
+    display: block;
+    background-color: var(--primarycolor);
+    max-width: 150px;
+    color: white;
+    font-size: 1.5rem;
+    margin: 1rem 34rem 1rem 35rem;
+    border-radius: 0.5rem;
+}
+.bananacode{
+    font-size: 1.5rem;
+    display: block;
+    max-width: 150px;
+    color: var(--primarycolor);
+    margin: 1rem 34rem 1rem 35rem;
+    border-radius: 0.5rem;
+    border: 1px solid var(--primary-color);
+    background-color: white;
+
+}
+.ws4{
+
+    text-align: center;
+    padding: 2rem;
+}
+.valyrianlink{
+    font-size: 1.5rem;
+    display: block;
+    background-color: var(--primarycolor);
+    max-width: 150px;
+    color: white;
+    font-size: 1.5rem;
+    margin: 1rem 34rem 1rem 35rem;
+    border-radius: 0.5rem;
+}
+.valyriancode{
+    font-size: 1.5rem;
+    display: block;
+    max-width: 150px;
+    color: var(--primarycolor);
+    margin: 1rem 34rem 1rem 35rem;
+    border-radius: 0.5rem;
+    border: 1px solid var(--primary-color);
+    background-color: white;
+
+}
+.ws3{
+
+    text-align: center;
+    padding: 2rem;
+}
