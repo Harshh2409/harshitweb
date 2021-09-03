@@ -61,6 +61,7 @@ hr{
     font-weight: bold;
 }
 .link{
+  border: 2px solid var(--primarycolor);
     color: white;
 }
 
