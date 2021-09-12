@@ -185,6 +185,7 @@ hr{
     color: white;
     border-top-right-radius:1rem ;
     border-bottom-left-radius:1rem ;
+    margin-botton:1rem;
 }
 .inline1{
     display: inline;
